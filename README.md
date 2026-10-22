@@ -1,3 +1,5 @@
+> **This project's home is now [github.com/globe-teck/cpanel-spam-filter-sync](https://github.com/globe-teck/cpanel-spam-filter-sync).** This copy stays up for existing links. Please open issues and pull requests there.
+
 # cpanel-spam-filter-sync
 
 Keep spam rules in one small YAML file and sync them to **cPanel server-side
